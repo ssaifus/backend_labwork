@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+content-Type: application/json
+
+{
+    "Name":"Rahim",
+    "Reg_number": "201900067",
+    "Marks": "42"
+}
